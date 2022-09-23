@@ -7,7 +7,7 @@ As we can see from the results, the intercept, vehicle length, and ground cleara
 ![Screenshot (71)](https://user-images.githubusercontent.com/106933029/191864425-cdeb3662-e7b4-4300-a7ff-11c4cf122177.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/106933029/191864449-3c6f894f-09ef-42f3-91a1-1019dcd235cd.png)
 
-According to the results posted, the manufacturing lots in total meet the requirements and do not exceed 100 pounds per square inch in tersm of variance. When the lots are accounted for separately, lot three's variance seems to be much higher that the 100 pound limit. For some specific reason, they are not reaching their suspension coil requirements.  
+According to the results posted, the manufacturing lots in total meet the requirements and do not exceed 100 pounds per square inch in terms of variance. When the lots are accounted for separately, lot three's variance seems to be much higher that the 100 pound limit. For some specific reason, they are not reaching their suspension coil requirements.  
 ## T- Tests on Suspension Coils
 ![Screenshot (74)](https://user-images.githubusercontent.com/106933029/191870009-45fc6660-894a-4bb2-a8b6-00afa1276adb.png)
 
